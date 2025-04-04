@@ -51,7 +51,7 @@ Junto com o código, os alunos deverão entregar um **README.md** contendo a doc
     - Inicialização do projeto React (comandos utilizados).
     - Explicação sobre a criação dos componentes.
     - Como foi aplicada a estilização.
-    - Como a lista de produtos foi tornada dinâmica.
+    - Como a lista de produtos.
     - Testes e ajustes finais.
 
 3. **Como Rodar o Projeto**
