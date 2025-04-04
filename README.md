@@ -8,7 +8,7 @@ Converter o site estático da loja, atualmente desenvolvido em HTML e CSS puro, 
 
 Os alunos devem:
 
--   Criar um projeto React do zero utilizando **Vite** ou **Create React App**.
+-   Criar um projeto React do zero utilizando **Vite**.
 -   Componentizar o código separando as seguintes partes do site:
     -   **Header** (Cabeçalho)
     -   **Banner** (Imagem principal)
